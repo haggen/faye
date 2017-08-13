@@ -1,6 +1,8 @@
 [![godoc](https://godoc.org/github.com/haggen/faye?status.svg)](https://godoc.org/github.com/haggen/faye)
 [![Go Report Card](https://goreportcard.com/badge/github.com/haggen/faye)](https://goreportcard.com/report/github.com/haggen/faye)
 [![CircleCI](https://circleci.com/gh/haggen/faye/tree/master.svg?style=shield)](https://circleci.com/gh/haggen/faye/tree/master)
+[![codecov](https://codecov.io/gh/haggen/faye/branch/master/graph/badge.svg)](https://codecov.io/gh/haggen/faye)
+
 
 # Faye
 
