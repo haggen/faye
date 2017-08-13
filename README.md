@@ -8,6 +8,10 @@
 
 > Faye client in Go.
 
+## Warning
+
+This is a work in progress. Expect it to be broken, partially or otherwise.
+
 ## About
 
 See [Faye](https://faye.jcoglan.com/).
